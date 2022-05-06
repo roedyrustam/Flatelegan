@@ -1,8 +1,6 @@
 # Flat Elegan
 
-<img src="https://i.ibb.co/MNdw81Z/cosmo.png" alt="cosmo" border="0" width="100%" height="auto">
-
-**Cosmo** ([https://github.com/roedyrustam/flatelegan/](https://github.com/roedyrustam/flatelegan/)) adalah tema atau tampilan modul web dari aplikasi OpenSID yang minimalis dan responsif. Tema **flatelegan** adalah hasil _rebranding_ sekaligus penerus dari tema Cosmo.
+**Flat Elegen** ([https://github.com/roedyrustam/flatelegan/](https://github.com/roedyrustam/flatelegan/)) adalah tema atau tampilan modul web dari aplikasi OpenSID yang minimalis dan responsif. Tema **flatelegan** adalah hasil _rebranding_ sekaligus penerus dari tema Cosmo.
 
 ## Instalasi
 
