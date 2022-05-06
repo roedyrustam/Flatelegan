@@ -10,7 +10,7 @@
 
 ## Kontribusi
 
-Jika menemukan masalah atau _bug_ pada tema `cosmo` silakan buat _issue_ melalui laman [Issues](https://github.com/roedyrustam/flatelegan/issues) dan ceritakan masalah atau _bug_ yang ditemukan. Jika Anda bersedia membantu memperbaiki issue yang ada silakan lakukan [Pull Request](https://github.com/roedyrustam/flatelegan/pulls).
+Jika menemukan masalah atau _bug_ pada tema `flatelegen` silakan buat _issue_ melalui laman [Issues](https://github.com/roedyrustam/flatelegan/issues) dan ceritakan masalah atau _bug_ yang ditemukan. Jika Anda bersedia membantu memperbaiki issue yang ada silakan lakukan [Pull Request](https://github.com/roedyrustam/flatelegan/pulls).
 
 
 
